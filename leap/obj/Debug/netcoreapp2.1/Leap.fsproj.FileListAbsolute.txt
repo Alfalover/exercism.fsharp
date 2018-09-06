@@ -1,0 +1,11 @@
+C:\Users\antjdav\Exercism\fsharp\leap\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\antjdav\Exercism\fsharp\leap\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\antjdav\Exercism\fsharp\leap\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\antjdav\Exercism\fsharp\leap\bin\Debug\netcoreapp2.1\Leap.deps.json
+C:\Users\antjdav\Exercism\fsharp\leap\bin\Debug\netcoreapp2.1\Leap.runtimeconfig.json
+C:\Users\antjdav\Exercism\fsharp\leap\bin\Debug\netcoreapp2.1\Leap.runtimeconfig.dev.json
+C:\Users\antjdav\Exercism\fsharp\leap\bin\Debug\netcoreapp2.1\Leap.dll
+C:\Users\antjdav\Exercism\fsharp\leap\bin\Debug\netcoreapp2.1\Leap.pdb
+C:\Users\antjdav\Exercism\fsharp\leap\obj\Debug\netcoreapp2.1\Leap.dll
+C:\Users\antjdav\Exercism\fsharp\leap\obj\Debug\netcoreapp2.1\Leap.pdb
+C:\Users\antjdav\Exercism\fsharp\leap\obj\Debug\netcoreapp2.1\Leap.fsprojAssemblyReference.cache
