@@ -45,7 +45,7 @@ let convert   (input:string list) =
                           |> getCols
                           |> Seq.map( fun x-> x 
                                              |> Seq.concat
-                                             |> Seq.groupBy (fun x -> x) 
+                                             |> Seq.groupBy (fun (x,y) -> x) 
                                              |> Seq.map(fun z -> snd z
                                                                     |> Seq.map(fun u -> snd u)
                                                                     |> Seq.concat
